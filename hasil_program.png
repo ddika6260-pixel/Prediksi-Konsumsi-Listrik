@@ -1,1 +1,5 @@
+===== HASIL REGRESI LINEAR =====
+MAE : 0.025
 
+===== HASIL RANDOM FOREST =====
+MAE : 0.01
