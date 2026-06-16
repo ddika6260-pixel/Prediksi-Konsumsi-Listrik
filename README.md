@@ -47,3 +47,11 @@ Variabel yang digunakan:
 ## Tujuan
 
 Membuat model yang dapat memperkirakan konsumsi listrik berdasarkan data penggunaan listrik sebelumnya.
+## Dataset
+
+Dataset menggunakan:
+
+Household Power Consumption Dataset
+
+Sumber:
+https://www.kaggle.com/datasets/uciml/electric-power-consumption-data-set
